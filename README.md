@@ -20,3 +20,6 @@ Team member:
 
 Name of project :
 EDU VERSE
+
+Idea of project :
+Digital education
